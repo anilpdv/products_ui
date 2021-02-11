@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can see the working application in this url [https://reverent-ptolemy-01daac.netlify.app/](https://reverent-ptolemy-01daac.netlify.app/)
 
 ## Available Scripts
 
